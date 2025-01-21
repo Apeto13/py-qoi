@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/py_qoi/__init__.py
+src/py_qoi/qoi.py
+src/pyqoi.egg-info/PKG-INFO
+src/pyqoi.egg-info/SOURCES.txt
+src/pyqoi.egg-info/dependency_links.txt
+src/pyqoi.egg-info/top_level.txt
+tests/test_qoi.py
