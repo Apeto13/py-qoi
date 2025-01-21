@@ -16,7 +16,7 @@ Learn more about QOI in the official QOI repository.
 ## Installation
 You can install this library from PyPI:
 
-pip install py-qoi-encoder
+    pip install py-qoi-encoder
 
 ## Quick Usage
 Below is a minimal example using Pillow to handle PNG images and converting them to .qoi:
